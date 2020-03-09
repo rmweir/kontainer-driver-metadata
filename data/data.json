@@ -4310,7 +4310,7 @@
    {
     "maxChannelServerVersion": "v2.4.0",
     "minChannelServerVersion": "v2.4.0",
-    "version": "v1.15.7+k3s1"
+    "version": "v1.12.7+k3s1"
    }
   ]
  }
