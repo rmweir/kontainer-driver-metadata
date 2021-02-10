@@ -6892,7 +6892,7 @@
    "flannel": "rancher/coreos-flannel:v0.13.0-rancher1",
    "flannelCni": "rancher/flannel-cni:v0.3.0-rancher6",
    "calicoNode": "rancher/calico-node:v3.17.2",
-   "calicoCni": "rancher/calico-cni:v3.17.2",
+   "calicoCni": "rancher/calico-cni:v3.17.8",
    "calicoControllers": "rancher/calico-kube-controllers:v3.17.2",
    "calicoCtl": "rancher/calico-ctl:v3.17.2",
    "calicoFlexVol": "rancher/calico-pod2daemon-flexvol:v3.17.2",
